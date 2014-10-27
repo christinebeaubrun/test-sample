@@ -1,1 +1,0 @@
-Mocha, Chai, & Sinon testing
